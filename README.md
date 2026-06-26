@@ -3,9 +3,9 @@
 This repository contains the Machine Learning tasks completed as part of the CodSoft Internship.
 
 ## Tasks
-- Spam Detection
+- SPAM SMS DETECTION
 - Customer Churn Prediction
-- Fraud Detection
+- CREDIT CARD FRAUD DETECTION
 - Movie Genre Classification
 - Handwritten Text Generation
 
